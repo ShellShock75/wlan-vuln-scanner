@@ -1,7 +1,7 @@
 # 📡 WLAN Vulnerability Scanner
 
-**Author:** Ezequiel Flores (aka `ShellShock75`)  
-**Status:** In Progress 🚧  
+**Author:** ShellShock75 
+**Status:** Always A Work In Progress 🚧  
 **Focus:** Python • Wireless Network Security • Ethical Hacking
 
 ---
