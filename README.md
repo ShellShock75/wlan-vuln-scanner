@@ -1,7 +1,7 @@
-# 📡 WLAN Vulnerability Scanner
+# WLAN Vulnerability Scanner
 
 **Author:** ShellShock75 
-**Status:** Always A Work In Progress 🚧  
+**Status:** Always A Work In Progress 
 **Focus:** Python • Wireless Network Security • Ethical Hacking
 
 ---
@@ -21,9 +21,9 @@ This is a Python-based scanner designed to identify potential vulnerabilities in
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 🧰 Requirements
+### Requirements
 - Python 3.x
 - `scapy` library
 
